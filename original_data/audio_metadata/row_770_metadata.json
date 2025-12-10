@@ -1,0 +1,28 @@
+{
+  "text": "ఓకే సో మేము ప్రతి ఒక్కటి చెప్తాము ఇక్కడ బీచెస్ అలానే అదే చక్క కోరంగి కూడా ఇక్కడ స్పెషల్ టూరిజం ఎక్కు ఎక్కువ టూరిస్టులు ఇక్కడికి వచ్చి అన్ని చూస్తారు ఇంకా",
+  "duration": 14.8920625,
+  "lang": "te",
+  "samples": 238273,
+  "verbatim": "ఓకే సో మేము ప్రతి ఒక్కటి చెప్తాము ఇక్కడ బీచెస్ అలానే అదే చక్క కోరంగి కూడా ఇక్కడ స్పెషల్ టూరిజం ఎక్కు ఎక్కువ టూరిస్టులు ఇక్కడికి వచ్చి అన్ని చూస్తారు ఇంకా",
+  "normalized": "ఓకే సో మేము ప్రతి ఒక్కటి చెప్తాము ఇక్కడ బీచెస్ అలానే అదే చక్క కోరంగి కూడా ఇక్కడ స్పెషల్ టూరిజం ఎక్కు ఎక్కువ టూరిస్టులు ఇక్కడికి వచ్చి అన్ని చూస్తారు ఇంకా",
+  "speaker_id": "S4259557300391493",
+  "scenario": "Conversation",
+  "task_name": "Conversation",
+  "gender": "Female",
+  "age_group": "18-30",
+  "job_type": "Unemployed",
+  "qualification": "Upto 12th",
+  "area": "Urban",
+  "district": "Kakinada",
+  "state": "Andhra Pradesh",
+  "occupation": "Blood donation",
+  "verification_report": "{'sst': False, 'comments': '', 'decision': 'excellent', 'book_read': False, 'off_topic': False, 'low_volume': True, 'stretching': False, 'long_pauses': False, 'echo_present': False, 'unclear_audio': False, 'reading_prompt': False, 'skipping_words': False, 'wrong_language': False, 'mispronunciation': False, 'noise_persistent': False, 'repeating_content': False, 'chatter_persistent': False, 'factual_inaccuracy': False, 'noise_intermittent': False, 'chatter_intermittent': False, 'bad_extempore_quality': False, 'incorrect_text_prompt': False, 'objectionable_content': False}",
+  "unsanitized_verbatim": "<Persistent-noise-start> ఓకే సో మేము ప్రతి ఒక్కటి చెప్తాము ఇక్కడ బీచెస్ అలానే [uhh] అదే చక్క కోరంగి కూడా ఇక్కడ స్పెషల్ టూరిజం ఎక్కు ఎక్కువ [noise] టూరిస్టులు ఇక్కడికి వచ్చి అన్ని చూస్తారు ఇంకా <Persistent-noise-end>",
+  "unsanitized_normalized": "<Persistent-noise-start> ఓకే [OK] సో [so] మేము ప్రతి ఒక్కటి చెప్తాము ఇక్కడ బీచెస్ [beaches] అలానే [uhh] అదే చక్క కోరంగి కూడా ఇక్కడ స్పెషల్ [special] టూరిజం [tourism] ఎక్కు ఎక్కువ [noise] టూరిస్టులు ఇక్కడికి వచ్చి అన్ని చూస్తారు ఇంకా <Persistent-noise-end>",
+  "Signal_to_Noise_Ratio_dB": 29.34000015258789,
+  "Spiked_Voice_Detection": {
+    "is_spiked": false,
+    "spike_count": 0,
+    "max_spike_amplitude": 0.0
+  }
+}

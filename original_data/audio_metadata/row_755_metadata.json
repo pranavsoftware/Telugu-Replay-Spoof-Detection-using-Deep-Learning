@@ -1,0 +1,28 @@
+{
+  "text": "రాష్ట్రంలోని మిగిలిన ప్రాంతాలు ముఖ్యంగా పర్వత ప్రాంతాలు మరియు మైదానాలు అస్సాం యొక్క చుటియా రాజుల నియంత్రణలో ఉండేవి",
+  "duration": 11.177,
+  "lang": "te",
+  "samples": 178832,
+  "verbatim": "రాష్ట్రంలోని మిగిలిన ప్రాంతాలు ముఖ్యంగా పర్వత ప్రాంతాలు మరియు మైదానాలు అస్సాం యొక్క చుటియా రాజుల నియంత్రణలో ఉండేవి",
+  "normalized": "రాష్ట్రంలోని మిగిలిన ప్రాంతాలు ముఖ్యంగా పర్వత ప్రాంతాలు మరియు మైదానాలు అస్సాం యొక్క చుటియా రాజుల నియంత్రణలో ఉండేవి",
+  "speaker_id": "S4256091300332643",
+  "scenario": "Read",
+  "task_name": "Wikipedia Sentences",
+  "gender": "Female",
+  "age_group": "45-60",
+  "job_type": "Blue Collar",
+  "qualification": "Upto 12th",
+  "area": "Rural",
+  "district": "Vizianagaram",
+  "state": "Andhra Pradesh",
+  "occupation": "Labour",
+  "verification_report": "{'decision': 'excellent', 'low_volume': False, 'noise_intermittent': False, 'chatter_intermittent': False, 'noise_persistent': False, 'chatter_persistent': False, 'unclear_audio': False, 'off_topic': False, 'repeating_content': False, 'long_pauses': False, 'mispronunciation': False, 'reading_prompt': False, 'book_read': False, 'sst': False, 'stretching': False, 'bad_extempore_quality': False, 'comments': 'excellent', 'objectionable_content': False, 'skipping_words': False, 'incorrect_text_prompt': False, 'factual_inaccuracy': False, 'wrong_language': False, 'echo_present': False, 'wrong_gender': False, 'wrong_age_group': False}",
+  "unsanitized_verbatim": "రాష్ట్రంలోని మిగిలిన ప్రాంతాలు ముఖ్యంగా పర్వత ప్రాంతాలు మరియు మైదానాలు అస్సాం యొక్క చుటియా రాజుల నియంత్రణలో ఉండేవి ",
+  "unsanitized_normalized": "రాష్ట్రంలోని మిగిలిన ప్రాంతాలు ముఖ్యంగా పర్వత ప్రాంతాలు మరియు మైదానాలు అస్సాం యొక్క చుటియా రాజుల నియంత్రణలో ఉండేవి ",
+  "Signal_to_Noise_Ratio_dB": 24.979999542236328,
+  "Spiked_Voice_Detection": {
+    "is_spiked": false,
+    "spike_count": 0,
+    "max_spike_amplitude": 0.0
+  }
+}

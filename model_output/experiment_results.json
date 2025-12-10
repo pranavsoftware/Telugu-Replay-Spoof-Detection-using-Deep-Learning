@@ -1,0 +1,26 @@
+{
+  "model": "CNN Mel-Spectrogram Classifier",
+  "dataset": {
+    "total_samples": 40,
+    "genuine_samples": 20,
+    "spoofed_samples": 20,
+    "train_samples": 28,
+    "val_samples": 6,
+    "test_samples": 6
+  },
+  "hyperparameters": {
+    "batch_size": 16,
+    "learning_rate": 0.001,
+    "num_epochs": 50,
+    "sample_rate": 16000,
+    "duration_sec": 4,
+    "n_mels": 64
+  },
+  "test_metrics": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0,
+    "roc_auc": 1.0
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Audio_id/name": "Audio766_1",
+  "Audio_id used": "row_766",
+  "Recording Environment Type": "Room",
+  "Room Type": "Hostel Room",
+  "Room Acoustic Conditions": "Echo-free",
+  "Approximate Distance from Device to Microphone": "0.3",
+  "Background Noise Level": "Low",
+  "Background Noise Type": "no sound",
+  "Original Output Device Type": "Laptop Speaker",
+  "Output Device Brand & Model": "HP Victus",
+  "Original Input Device Type": "Smartphone mic",
+  "Input Device Brand & Model": " OnePlus 11R",
+  "Azimuth Angle": "0 degrees",
+  "Signal_to_Noise_Ratio_dB": 16.489999771118164,
+  "Spiked_Voice_Detection": {
+    "is_spiked": false,
+    "spike_count": 0,
+    "max_spike_amplitude": 0.0
+  },
+  "Perceptual_Metrics": {
+    "PESQ_score": 1.272,
+    "STOI_score": 0.1125,
+    "MOS_estimate": 1.237,
+    "reference_audio": "row_766"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "text": "జస్ట్ సగం అంటే అవి అవి ఏం రా అంటే నా బ్లడ్ ఇట్ల ఏం రాలేదు సార్ నాకు",
+  "duration": 5.641,
+  "lang": "te",
+  "samples": 90256,
+  "verbatim": "జస్ట్ సగం అంటే అవి అవి ఏం రా అంటే నా బ్లడ్ గిట్ల ఏం రాలేదు సార్ నాకు",
+  "normalized": "జస్ట్ సగం అంటే అవి అవి ఏం రా అంటే నా బ్లడ్ ఇట్ల ఏం రాలేదు సార్ నాకు",
+  "speaker_id": "S4258855400368141",
+  "scenario": "Conversation",
+  "task_name": "Conversation",
+  "gender": "Male",
+  "age_group": "18-30",
+  "job_type": "White Collar",
+  "qualification": "Undergrad and Grad.",
+  "area": "Urban",
+  "district": "Sangareddy",
+  "state": "Telangana",
+  "occupation": "Employee",
+  "verification_report": "{'sst': False, 'comments': '', 'decision': 'excellent', 'book_read': False, 'off_topic': False, 'low_volume': False, 'stretching': False, 'long_pauses': False, 'echo_present': False, 'wrong_gender': False, 'unclear_audio': False, 'reading_prompt': False, 'skipping_words': False, 'wrong_language': False, 'wrong_age_group': False, 'mispronunciation': False, 'noise_persistent': False, 'duplicate_speaker': False, 'repeating_content': False, 'chatter_persistent': False, 'factual_inaccuracy': False, 'noise_intermittent': True, 'chatter_intermittent': False, 'bad_extempore_quality': False, 'incorrect_text_prompt': False, 'objectionable_content': False}",
+  "unsanitized_verbatim": "జస్ట్ సగం అంటే అవి [uhh] అవి ఏం రా అంటే [umm] నా బ్లడ్ గిట్ల ఏం రాలేదు సార్ నాకు",
+  "unsanitized_normalized": "జస్ట్ [just] సగం అంటే అవి [uhh] అవి ఏం రా అంటే [umm] నా బ్లడ్ [blood] ఇట్ల ఏం రాలేదు సార్ [sir] నాకు",
+  "Signal_to_Noise_Ratio_dB": 34.709999084472656,
+  "Spiked_Voice_Detection": {
+    "is_spiked": false,
+    "spike_count": 0,
+    "max_spike_amplitude": 0.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "text": "సరే సార్ ఓకే సార్ నేను వస్తాను సార్",
+  "duration": 2.036,
+  "lang": "te",
+  "samples": 32576,
+  "verbatim": "సరే సార్ ఓకే సార్ నేను వస్తాను సార్",
+  "normalized": "సరే సార్ ఓకే సార్ నేను వస్తాను సార్",
+  "speaker_id": "S4258855400368141",
+  "scenario": "Conversation",
+  "task_name": "Conversation",
+  "gender": "Male",
+  "age_group": "18-30",
+  "job_type": "White Collar",
+  "qualification": "Undergrad and Grad.",
+  "area": "Urban",
+  "district": "Sangareddy",
+  "state": "Telangana",
+  "occupation": "Employee",
+  "verification_report": "{'sst': False, 'comments': '', 'decision': 'excellent', 'book_read': False, 'off_topic': False, 'low_volume': False, 'stretching': False, 'long_pauses': False, 'echo_present': False, 'wrong_gender': False, 'unclear_audio': False, 'reading_prompt': False, 'skipping_words': False, 'wrong_language': False, 'wrong_age_group': False, 'mispronunciation': False, 'noise_persistent': False, 'duplicate_speaker': False, 'repeating_content': False, 'chatter_persistent': False, 'factual_inaccuracy': False, 'noise_intermittent': True, 'chatter_intermittent': False, 'bad_extempore_quality': False, 'incorrect_text_prompt': False, 'objectionable_content': False}",
+  "unsanitized_verbatim": "సరే సార్ ఓకే సార్ నేను వస్తాను సార్",
+  "unsanitized_normalized": "సరే సార్ [sir] ఓకే [OK] సార్ [sir] నేను వస్తాను సార్ [sir]",
+  "Signal_to_Noise_Ratio_dB": 33.34000015258789,
+  "Spiked_Voice_Detection": {
+    "is_spiked": false,
+    "spike_count": 0,
+    "max_spike_amplitude": 0.0
+  }
+}

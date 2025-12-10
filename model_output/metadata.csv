@@ -1,0 +1,41 @@
+file_path,audio_id,label,label_name,reference_id,replay_depth,distance_m,snr_db,playback_device,recording_device,room_type,azimuth_deg,duration,speaker_id,gender
+c:\Users\rayba\Downloads\samsung\original_data\audio_file\row_751.flac,row_751,0,genuine,row_751,0,0.0,48.540000915527344,N/A,N/A,Original Recording,0.0,1.625,S4258855400368141,Male
+c:\Users\rayba\Downloads\samsung\original_data\audio_file\row_752.flac,row_752,0,genuine,row_752,0,0.0,34.709999084472656,N/A,N/A,Original Recording,0.0,5.641,S4258855400368141,Male
+c:\Users\rayba\Downloads\samsung\original_data\audio_file\row_753.flac,row_753,0,genuine,row_753,0,0.0,40.439998626708984,N/A,N/A,Original Recording,0.0,0.8300000000000001,S4258855400368141,Male
+c:\Users\rayba\Downloads\samsung\original_data\audio_file\row_754.flac,row_754,0,genuine,row_754,0,0.0,33.34000015258789,N/A,N/A,Original Recording,0.0,2.036,S4258855400368141,Male
+c:\Users\rayba\Downloads\samsung\original_data\audio_file\row_755.flac,row_755,0,genuine,row_755,0,0.0,24.979999542236328,N/A,N/A,Original Recording,0.0,11.177,S4256091300332643,Female
+c:\Users\rayba\Downloads\samsung\original_data\audio_file\row_756.flac,row_756,0,genuine,row_756,0,0.0,14.970000267028809,N/A,N/A,Original Recording,0.0,0.8230000000000001,S4259557300391493,Female
+c:\Users\rayba\Downloads\samsung\original_data\audio_file\row_757.flac,row_757,0,genuine,row_757,0,0.0,19.239999771118164,N/A,N/A,Original Recording,0.0,0.8320000000000001,S4259557300391493,Female
+c:\Users\rayba\Downloads\samsung\original_data\audio_file\row_758.flac,row_758,0,genuine,row_758,0,0.0,20.110000610351562,N/A,N/A,Original Recording,0.0,0.891,S4259557300391493,Female
+c:\Users\rayba\Downloads\samsung\original_data\audio_file\row_759.flac,row_759,0,genuine,row_759,0,0.0,26.149999618530273,N/A,N/A,Original Recording,0.0,1.887,S4259557300391493,Female
+c:\Users\rayba\Downloads\samsung\original_data\audio_file\row_760.flac,row_760,0,genuine,row_760,0,0.0,23.350000381469727,N/A,N/A,Original Recording,0.0,1.119,S4259557300391493,Female
+c:\Users\rayba\Downloads\samsung\original_data\audio_file\row_761.flac,row_761,0,genuine,row_761,0,0.0,26.010000228881836,N/A,N/A,Original Recording,0.0,16.863,S4259557300391493,Female
+c:\Users\rayba\Downloads\samsung\original_data\audio_file\row_762.flac,row_762,0,genuine,row_762,0,0.0,30.34000015258789,N/A,N/A,Original Recording,0.0,7.028,S4259557300391493,Female
+c:\Users\rayba\Downloads\samsung\original_data\audio_file\row_763.flac,row_763,0,genuine,row_763,0,0.0,24.690000534057617,N/A,N/A,Original Recording,0.0,2.716,S4259557300391493,Female
+c:\Users\rayba\Downloads\samsung\original_data\audio_file\row_764.flac,row_764,0,genuine,row_764,0,0.0,18.270000457763672,N/A,N/A,Original Recording,0.0,2.271,S4259557300391493,Female
+c:\Users\rayba\Downloads\samsung\original_data\audio_file\row_765.flac,row_765,0,genuine,row_765,0,0.0,41.88999938964844,N/A,N/A,Original Recording,0.0,9.088,S4259557300391493,Female
+c:\Users\rayba\Downloads\samsung\original_data\audio_file\row_766.flac,row_766,0,genuine,row_766,0,0.0,13.430000305175781,N/A,N/A,Original Recording,0.0,2.3669375,S4259557300391493,Female
+c:\Users\rayba\Downloads\samsung\original_data\audio_file\row_767.flac,row_767,0,genuine,row_767,0,0.0,25.75,N/A,N/A,Original Recording,0.0,3.2709375,S4259557300391493,Female
+c:\Users\rayba\Downloads\samsung\original_data\audio_file\row_768.flac,row_768,0,genuine,row_768,0,0.0,30.8799991607666,N/A,N/A,Original Recording,0.0,4.575,S4259557300391493,Female
+c:\Users\rayba\Downloads\samsung\original_data\audio_file\row_769.flac,row_769,0,genuine,row_769,0,0.0,34.68000030517578,N/A,N/A,Original Recording,0.0,10.987,S4259557300391493,Female
+c:\Users\rayba\Downloads\samsung\original_data\audio_file\row_770.flac,row_770,0,genuine,row_770,0,0.0,29.34000015258789,N/A,N/A,Original Recording,0.0,14.8920625,S4259557300391493,Female
+c:\Users\rayba\Downloads\samsung\recorded_data\recorded_audio\Audio751_1.mp3,Audio751_1,1,spoofed,row_751,1,0.2,15.600000381469727,Dell G15,Apple iPhone 15,Hostel Room,0.0,,,
+c:\Users\rayba\Downloads\samsung\recorded_data\recorded_audio\Audio752_1.mp3,Audio752_1,1,spoofed,row_752,1,0.3,10.859999656677246,HP Victus, OnePlus 11R,Hostel Room,0.0,,,
+c:\Users\rayba\Downloads\samsung\recorded_data\recorded_audio\Audio753_1.mp3,Audio753_1,1,spoofed,row_753,1,0.2,21.1299991607666,Dell G15,Apple iPhone 15,Hostel Room,0.0,,,
+c:\Users\rayba\Downloads\samsung\recorded_data\recorded_audio\Audio754_1.mp3,Audio754_1,1,spoofed,row_754,1,0.3,8.699999809265137,HP Victus, OnePlus 11R,Hostel Room,0.0,,,
+c:\Users\rayba\Downloads\samsung\recorded_data\recorded_audio\Audio755_1.mp3,Audio755_1,1,spoofed,row_755,1,0.5,17.670000076293945,Dell G15,Apple iPhone 15,Hostel Room,0.0,,,
+c:\Users\rayba\Downloads\samsung\recorded_data\recorded_audio\Audio756_1.mp3,Audio756_1,1,spoofed,row_756,1,0.5,19.540000915527344,HP Victus, OnePlus 11R,Hostel Room,0.0,,,
+c:\Users\rayba\Downloads\samsung\recorded_data\recorded_audio\Audio757_1.mp3,Audio757_1,1,spoofed,row_757,1,0.3,18.8700008392334,Dell G15,Apple iPhone 15,Hostel Room,0.0,,,
+c:\Users\rayba\Downloads\samsung\recorded_data\recorded_audio\Audio758_1.mp3,Audio758_1,1,spoofed,row_758,1,0.3,10.229999542236328,HP Victus, OnePlus 11R,Hostel Room,0.0,,,
+c:\Users\rayba\Downloads\samsung\recorded_data\recorded_audio\Audio759_1.mp3,Audio759_1,1,spoofed,row_759,1,0.6,20.920000076293945,Dell G15,Apple iPhone 15,Hostel Room,0.0,,,
+c:\Users\rayba\Downloads\samsung\recorded_data\recorded_audio\Audio760_1.mp3,Audio760_1,1,spoofed,row_760,1,0.3,8.59000015258789,HP Victus, OnePlus 11R,Hostel Room,0.0,,,
+c:\Users\rayba\Downloads\samsung\recorded_data\recorded_audio\Audio761_1.mp3,Audio761_1,1,spoofed,row_761,1,0.8,19.81999969482422,Dell G15,Apple iPhone 15,Hostel Room,0.0,,,
+c:\Users\rayba\Downloads\samsung\recorded_data\recorded_audio\Audio762_1.mp3,Audio762_1,1,spoofed,row_762,1,0.3,13.470000267028809,HP Victus, OnePlus 11R,Hostel Room,0.0,,,
+c:\Users\rayba\Downloads\samsung\recorded_data\recorded_audio\Audio763_1.mp3,Audio763_1,1,spoofed,row_763,1,0.4,21.6299991607666,Dell G15,Apple iPhone 15,Hostel Room,0.0,,,
+c:\Users\rayba\Downloads\samsung\recorded_data\recorded_audio\Audio764_1.mp3,Audio764_1,1,spoofed,row_764,1,0.3,13.260000228881836,HP Victus, OnePlus 11R,Hostel Room,0.0,,,
+c:\Users\rayba\Downloads\samsung\recorded_data\recorded_audio\Audio765_1.mp3,Audio765_1,1,spoofed,row_765,1,0.2,29.479999542236328,Dell G15,Apple iPhone 15,Hostel Room,0.0,,,
+c:\Users\rayba\Downloads\samsung\recorded_data\recorded_audio\Audio766_1.mp3,Audio766_1,1,spoofed,row_766,1,0.3,16.489999771118164,HP Victus, OnePlus 11R,Hostel Room,0.0,,,
+c:\Users\rayba\Downloads\samsung\recorded_data\recorded_audio\Audio767_1.mp3,Audio767_1,1,spoofed,row_767,1,0.3,20.610000610351562,Dell G15,Apple iPhone 15,Hostel Room,0.0,,,
+c:\Users\rayba\Downloads\samsung\recorded_data\recorded_audio\Audio768_1.mp3,Audio768_1,1,spoofed,row_768,1,0.3,12.270000457763672,HP Victus, OnePlus 11R,Hostel Room,0.0,,,
+c:\Users\rayba\Downloads\samsung\recorded_data\recorded_audio\Audio769_1.mp3,Audio769_1,1,spoofed,row_769,1,0.7,11.529999732971191,Dell G15,Apple iPhone 15,Hostel Room,0.0,,,
+c:\Users\rayba\Downloads\samsung\recorded_data\recorded_audio\Audio770_1.mp3,Audio770_1,1,spoofed,row_770,1,0.3,11.399999618530273,HP Victus, OnePlus 11R,Hostel Room,0.0,,,

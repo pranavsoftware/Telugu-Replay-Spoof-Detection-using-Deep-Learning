@@ -1,0 +1,27 @@
+{
+  "Audio_id/name": "Audio755_1",
+  "Audio_id used": "row_755",
+  "Recording Environment Type": "Room with background noise",
+  "Room Type": "Hostel Room",
+  "Room Acoustic Conditions": "Echo-free",
+  "Approximate Distance from Device to Microphone": "0.5",
+  "Background Noise Level": "Low",
+  "Background Noise Type": "AC",
+  "Original Output Device Type": "Laptop Speaker",
+  "Output Device Brand & Model": "Dell G15",
+  "Original Input Device Type": "Smartphone mic",
+  "Input Device Brand & Model": "Apple iPhone 15",
+  "Azimuth Angle": "0 degrees",
+  "Signal_to_Noise_Ratio_dB": 17.670000076293945,
+  "Spiked_Voice_Detection": {
+    "is_spiked": false,
+    "spike_count": 0,
+    "max_spike_amplitude": 0.0
+  },
+  "Perceptual_Metrics": {
+    "PESQ_score": 1.718,
+    "STOI_score": 0.1357,
+    "MOS_estimate": 1.438,
+    "reference_audio": "row_755"
+  }
+}

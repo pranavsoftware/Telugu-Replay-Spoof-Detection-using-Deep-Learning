@@ -1,0 +1,28 @@
+{
+  "text": "ఓకే మేబి రేపు కండిషన్ బట్టి చెప్తే వచ్చేయి గలరు కదా తక్కువే కదా",
+  "duration": 4.575,
+  "lang": "te",
+  "samples": 73200,
+  "verbatim": "ఓకే మేబి రేపు కండిషన్ బట్టి చెప్తే వచ్చేయి గల్రు కదా తక్కువే కదా",
+  "normalized": "ఓకే మేబి రేపు కండిషన్ బట్టి చెప్తే వచ్చేయి గలరు కదా తక్కువే కదా",
+  "speaker_id": "S4259557300391493",
+  "scenario": "Conversation",
+  "task_name": "Conversation",
+  "gender": "Female",
+  "age_group": "18-30",
+  "job_type": "Unemployed",
+  "qualification": "Upto 12th",
+  "area": "Urban",
+  "district": "Kakinada",
+  "state": "Andhra Pradesh",
+  "occupation": "Blood donation",
+  "verification_report": "{'sst': False, 'comments': '', 'decision': 'excellent', 'book_read': False, 'off_topic': False, 'low_volume': True, 'stretching': False, 'long_pauses': False, 'echo_present': False, 'unclear_audio': False, 'reading_prompt': False, 'skipping_words': False, 'wrong_language': False, 'mispronunciation': False, 'noise_persistent': False, 'repeating_content': False, 'chatter_persistent': False, 'factual_inaccuracy': False, 'noise_intermittent': False, 'chatter_intermittent': False, 'bad_extempore_quality': False, 'incorrect_text_prompt': False, 'objectionable_content': False}",
+  "unsanitized_verbatim": "ఓకే మేబి రేపు కండిషన్ బట్టి చెప్తే  వచ్చేయి గల్రు  కదా తక్కువే కదా",
+  "unsanitized_normalized": "ఓకే [OK] మేబి [maybe] రేపు కండిషన్ [condition] బట్టి చెప్తే వచ్చేయి  గలరు కదా తక్కువే కదా",
+  "Signal_to_Noise_Ratio_dB": 30.8799991607666,
+  "Spiked_Voice_Detection": {
+    "is_spiked": false,
+    "spike_count": 0,
+    "max_spike_amplitude": 0.0
+  }
+}
